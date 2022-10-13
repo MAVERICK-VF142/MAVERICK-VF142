@@ -6,7 +6,7 @@
 - 📫 connect with me on Linkedin https://www.linkedin.com/in/ashutosh-jena-865046246
 
 [![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
-[![trophy](https://github-profile-trophy.vercel.app/?username=maverick_vf142)](https://github.com/maverick_vf142/github-profile-trophy)
+
 
 <!---
 MAVERICK-VF142/MAVERICK-VF142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

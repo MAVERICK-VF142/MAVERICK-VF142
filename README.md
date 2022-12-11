@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm ASHUTOSH JENA</h1>
+[1](https://user-images.githubusercontent.com/113919175/206921201-6fdda62a-c290-4d05-a720-0f555cc159da.gif)<h1 align="center">Hi 👋, I'm ASHUTOSH JENA</h1>
 <h3 align="center">A CSE UNDERGRADUATE STUDENT AND A OPEN SOURCE ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick-vf142&label=Profile%20views&color=0e75b6&style=flat" alt="maverick-vf142" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maverick-vf142" alt="maverick-vf142" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/maverick_vf142" target="blank"><img src="https://img.shields.io/twitter/follow/maverick_vf142?logo=twitter&style=for-the-badge" alt="maverick_vf142" /></a> </p>
+<p align="left"> <a href="https://twitter.com/maverick_vf142" target="blank"><img src="https://img.shields.io/twitter/follow/maverick_vf142?logo=twitter&style=for-the-badge" alt="maverick_vf142" /></a> </p>!
+
+
+
 
 - 📫 How to reach me **ASHUTOSH.JENA.MAV.1@GMAIL.COM**
 

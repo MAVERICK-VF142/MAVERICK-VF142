@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @MAVERICK-VF142
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on any project in which i can work 
-- 📫 you can email me on ashutosh.jena.mav.1@gmail.com
-- 📫 connect with me on Linkedin https://www.linkedin.com/in/ashutosh-jena-865046246
-
-[![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
 
 
 <!---
@@ -22,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/maverick_vf142" target="blank"><img src="https://img.shields.io/twitter/follow/maverick_vf142?logo=twitter&style=for-the-badge" alt="maverick_vf142" /></a> </p>
 
 - 📫 How to reach me **ASHUTOSH.JENA.MAV.1@GMAIL.COM**
-
+[![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maverick_vf142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maverick_vf142" height="30" width="40" /></a>

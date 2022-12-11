@@ -1,8 +1,3 @@
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maverick-vf142&show_icons=true&locale=en&layout=compact" alt="maverick-vf142" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick-vf142&show_icons=true&locale=en" alt="maverick-vf142" /></p>
 <h1 align="center">Hi 👋, I'm ASHUTOSH JENA</h1>
 <h3 align="center">A CSE UNDERGRADUATE STUDENT AND A OPEN SOURCE ENTHUSIAST</h3>
 
@@ -33,7 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maverick-vf142&show_icons=true&locale=en&layout=compact" alt="maverick-vf142" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick-vf142&show_icons=true&locale=en" alt="maverick-vf142" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maverick-vf142&" alt="maverick-vf142" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maverick-vf142&" alt="maverick-vf142" /></p>

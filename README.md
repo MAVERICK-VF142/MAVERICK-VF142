@@ -1,9 +1,8 @@
 
 
-<!---
-MAVERICK-VF142/MAVERICK-VF142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maverick-vf142&show_icons=true&locale=en&layout=compact" alt="maverick-vf142" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick-vf142&show_icons=true&locale=en" alt="maverick-vf142" /></p>
 <h1 align="center">Hi 👋, I'm ASHUTOSH JENA</h1>
 <h3 align="center">A CSE UNDERGRADUATE STUDENT AND A OPEN SOURCE ENTHUSIAST</h3>
 
@@ -15,12 +14,12 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **ASHUTOSH.JENA.MAV.1@GMAIL.COM**
 
-
 [![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maverick_vf142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maverick_vf142" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashutosh jena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh jena" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh-jena-865046246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-jena-865046246" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20673131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20673131" height="30" width="40" /></a>
 <a href="https://instagram.com/_ashutosh_jena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashutosh_jena" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/maverick_vf142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maverick_vf142" height="30" width="40" /></a>
@@ -34,5 +33,7 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maverick-vf142&show_icons=true&locale=en&layout=compact" alt="maverick-vf142" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick-vf142&show_icons=true&locale=en" alt="maverick-vf142" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maverick-vf142&" alt="maverick-vf142" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maverick-vf142&" alt="maverick-vf142" /></p>

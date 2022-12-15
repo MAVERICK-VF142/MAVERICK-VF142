@@ -1,4 +1,4 @@
-[1](https://user-images.githubusercontent.com/113919175/206921201-6fdda62a-c290-4d05-a720-0f555cc159da.gif)<h1 align="center">
+<img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/1.gif">
  Hi 👋, I'm ASHUTOSH JENA</h1>
 <h3 align="center">A CSE UNDERGRADUATE STUDENT AND A OPEN SOURCE ENTHUSIAST</h3>
 

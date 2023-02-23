@@ -16,6 +16,7 @@
 [![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5de8ddff-49b5-4834-9c88-ca6201f9662f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/5de8ddff-49b5-4834-9c88-ca6201f9662f/public_url
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

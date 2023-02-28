@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maverick-vf142" alt="maverick-vf142" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/maverick_vf142" target="blank"><img src="https://img.shields.io/twitter/follow/maverick_vf142?logo=twitter&style=for-the-badge" alt="maverick_vf142" /></a> </p>!
+<p align="left"> <a href="https://twitter.com/maverick_vf142" target="blank"><img src="https://img.shields.io/twitter/follow/maverick_vf142?logo=twitter&style=for-the-badge" alt="maverick_vf142" /></a> </p>
 
 
 
@@ -15,7 +15,7 @@
 
 [![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c4e0a18-a454-451e-be91-bcac2a2397c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -18,9 +18,11 @@
  [![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
 
 <div class="badges">
-<img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/introduction-to-cybersecurity-tools-cyber-attacks.png">
-<img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-roles-processes-operating-system-security.png">
-<img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-compliance-framework-system-administration.png">
+<a herf="https://www.credly.com/badges/5de8ddff-49b5-4834-9c88-ca6201f9662f"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/introduction-to-cybersecurity-tools-cyber-attacks.png"></a>
+
+ <a herf="https://www.credly.com/badges/f912b8a2-d352-4a47-9839-f3c6636929ee"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-roles-processes-operating-system-security.png"></a>
+
+ <a herf="https://www.credly.com/badges/8c4e0a18-a454-451e-be91-bcac2a2397c9"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-compliance-framework-system-administration.png"></a>
 </div>
 
 

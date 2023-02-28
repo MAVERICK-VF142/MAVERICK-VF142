@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **ASHUTOSH.JENA.MAV.1@GMAIL.COM**
 
+<h1>BADGES<h1>
 [![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
 
 <div class="badges">

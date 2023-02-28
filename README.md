@@ -1,4 +1,4 @@
-<img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/hey%2Ci'm%20ashutosh.gif" align="center">
+<img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/hey%2Ci'm%20ashutosh.gif" align="center" height="300" width="800">
 <h1> Hi 👋, I'm ASHUTOSH JENA</h1>
 <h3 align="center">A CSE UNDERGRADUATE STUDENT AND A OPEN SOURCE ENTHUSIAST</h3>
 

@@ -14,6 +14,10 @@
 - 📫 How to reach me **ASHUTOSH.JENA.MAV.1@GMAIL.COM**
 
 [![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
+<html>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c4e0a18-a454-451e-be91-bcac2a2397c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</html>
+
 
 
 

@@ -21,6 +21,7 @@
 <a href="https://www.credly.com/badges/5de8ddff-49b5-4834-9c88-ca6201f9662f"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/introduction-to-cybersecurity-tools-cyber-attacks.png"></a>
  <a href="https://www.credly.com/badges/f912b8a2-d352-4a47-9839-f3c6636929ee"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-roles-processes-operating-system-security.png"></a>
  <a href="https://www.credly.com/badges/8c4e0a18-a454-451e-be91-bcac2a2397c9"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-compliance-framework-system-administration.png"></a>
+ <a href="https://www.credly.com/badges/722fc7ff-efad-4775-8514-1ca695ae63b4"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/introduction-to-cybersecurity.png"></a>
 </div>
 
 

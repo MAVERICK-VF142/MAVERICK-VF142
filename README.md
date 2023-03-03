@@ -14,16 +14,22 @@
 - 📫 How to reach me **ASHUTOSH.JENA.MAV.1@GMAIL.COM**
 
 <h1>BADGES<h1>
+ <h2>Hacktober-2k22</h2>
 
  [![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
 
-<div class="badges">
+ <h2>Cybersecurity</h2>
+<div class="cybersecurity">
 <a href="https://www.credly.com/badges/5de8ddff-49b5-4834-9c88-ca6201f9662f"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/introduction-to-cybersecurity-tools-cyber-attacks.png"></a>
  <a href="https://www.credly.com/badges/f912b8a2-d352-4a47-9839-f3c6636929ee"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-roles-processes-operating-system-security.png"></a>
  <a href="https://www.credly.com/badges/8c4e0a18-a454-451e-be91-bcac2a2397c9"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-compliance-framework-system-administration.png"></a>
  <a href="https://www.credly.com/badges/722fc7ff-efad-4775-8514-1ca695ae63b4"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/introduction-to-cybersecurity.png"></a>
- <a href="https://www.credly.com/badges/02ffe109-f8c7-4f97-80c6-36a7e83469e7/public_url"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/Adobe_Express_20230303_1029050_1.png"></a>
 </div>
+ <h2>Cloud</h2>
+<div class ="cloud">
+ <a href="https://www.credly.com/badges/02ffe109-f8c7-4f97-80c6-36a7e83469e7/public_url"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/Adobe_Express_20230303_1029050_1.png"></a>
+ </div>
+ 
 
 
 

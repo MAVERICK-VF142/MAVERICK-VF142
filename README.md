@@ -3,6 +3,7 @@
 <h3 align="center">A CSE UNDERGRADUATE STUDENT AND A OPEN SOURCE ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick-vf142&label=Profile%20views&color=0e75b6&style=flat" alt="maverick-vf142" /> </p>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/MAVERICKVF142.png" alt="TryHackMe">
 
 

@@ -28,10 +28,10 @@
  <a href="https://www.credly.com/badges/f912b8a2-d352-4a47-9839-f3c6636929ee"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-roles-processes-operating-system-security.png"></a>
  <a href="https://www.credly.com/badges/8c4e0a18-a454-451e-be91-bcac2a2397c9"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cybersecurity-compliance-framework-system-administration.png"></a>
  <a href="https://www.credly.com/badges/4b692674-4b86-43ac-ac5a-df90002256ee/public_url"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/penetration-testing-incident-response-and-forensics.png"></a>
+ <a href="https://www.credly.com/badges/d35302ec-40e0-45ca-80a4-6fa18c6a168d/public_url"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cyber-threat-intelligence.png"></a>
  <a href="https://www.credly.com/badges/722fc7ff-efad-4775-8514-1ca695ae63b4"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/introduction-to-cybersecurity.png" width="200" 
      height="200"></a>
- <a href="https://www.credly.com/badges/d35302ec-40e0-45ca-80a4-6fa18c6a168d/public_url"><img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/badges/cyber-threat-intelligence.png" width="200" 
-     height="200"></a>
+ 
 </div>
  
 

@@ -1,6 +1,6 @@
 <img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/hey%2Ci'm%20ashutosh.gif" align="center" height="300" width="800">
 <h1> Hi 👋, I'm ASHUTOSH JENA</h1>
-<h3 align="center">A CSE GRADUATE STUDENT AND A OPEN SOURCE ENTHUSIAST</h3>
+<h3 align="center">A CSE GRADUATE  AND A OPEN SOURCE ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick-vf142&label=Profile%20views&color=0e75b6&style=flat" alt="maverick-vf142" /> </p>
 

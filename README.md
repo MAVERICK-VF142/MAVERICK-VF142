@@ -16,12 +16,15 @@ ___  ___  ___   _   _  _____ ______  _____  _____  _   __
  \___/ \_|    \___/    |_/\_____/
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashutosh+Jena+%F0%9F%91%8B;CS+Graduate+%7C+Open+Source+Enthusiast;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ashutosh+Jena+%F0%9F%91%8B;CS+Graduate+%7C+Open+Source+Enthusiast;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+%7C+Pen+Tester+%F0%9F%94%90;Creator+%40+SecureIT-Maverick+%F0%9F%9A%80;Always+learning%2C+always+hacking+legally+%F0%9F%98%84" alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=maverick-vf142&label=Profile+Views&color=00d9ff&style=flat-square)](https://github.com/MAVERICK-VF142)
 [![Twitter Follow](https://img.shields.io/twitter/follow/maverick_vf142?logo=twitter&style=flat-square&color=00d9ff)](https://twitter.com/maverick_vf142)
+[![YouTube](https://img.shields.io/badge/SecureIT--Maverick-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@secureit-maverick)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/xf57t93mpb)
+[![Instagram](https://img.shields.io/badge/secureit__maverick-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/secureit_maverick)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-MAVERICKVF142-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/MAVERICKVF142)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-019c5bc2-9FEF00?style=flat-square&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019c5bc2-3916-728a-b388-372be8cd81a4)
 
@@ -103,6 +106,68 @@ fun_fact: I hack things legally 😄
 
 ---
 
+## 🔧 Hacking Arsenal
+
+<div align="center">
+
+### 🖥️ Primary OS
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+### 🌐 Web Application Testing
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-005571?style=for-the-badge&logo=linux&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Dirbuster](https://img.shields.io/badge/Dirbuster-AA0000?style=for-the-badge&logo=linux&logoColor=white)
+![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 📡 Network & Wireless
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=linux&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-00FF41?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-EE0000?style=for-the-badge&logo=linux&logoColor=white)
+![Airplay-ng](https://img.shields.io/badge/Aireplay--ng-CC0000?style=for-the-badge&logo=linux&logoColor=white)
+![Airodump-ng](https://img.shields.io/badge/Airodump--ng-AA0000?style=for-the-badge&logo=linux&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-005571?style=for-the-badge&logo=linux&logoColor=white)
+
+### 💥 Exploitation & Password Cracking
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=linux&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-964B00?style=for-the-badge&logo=linux&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20The%20Ripper-000000?style=for-the-badge&logo=linux&logoColor=red)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge&logo=linux&logoColor=white)
+![MSFvenom](https://img.shields.io/badge/MSFvenom-2596CD?style=for-the-badge&logo=linux&logoColor=white)
+
+### 🕵️ OSINT & Forensics
+![theHarvester](https://img.shields.io/badge/theHarvester-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-0078D7?style=for-the-badge&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-336791?style=for-the-badge&logo=linux&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-555555?style=for-the-badge&logo=linux&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-4B0082?style=for-the-badge&logo=linux&logoColor=white)
+![Steghide](https://img.shields.io/badge/Steghide-008080?style=for-the-badge&logo=linux&logoColor=white)
+
+### 🎯 Practice Platforms
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+</div>
+
+---
+
+## 📺 SecureIT Maverick — Content & Community
+
+> 🔐 *Cybersecurity content, CTF walkthroughs, ethical hacking tutorials & more!*
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-SecureIT--Maverick-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@secureit-maverick)
+[![Instagram](https://img.shields.io/badge/Instagram-secureit__maverick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/secureit_maverick)
+[![Discord](https://img.shields.io/badge/Join%20Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xf57t93mpb)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -136,7 +201,9 @@ fun_fact: I hack things legally 😄
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maverick_vf142)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-jena-865046246)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ashutosh_jena)
+[![Instagram](https://img.shields.io/badge/SecureIT__Maverick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/secureit_maverick)
+[![YouTube](https://img.shields.io/badge/SecureIT--Maverick-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@secureit-maverick)
+[![Discord](https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xf57t93mpb)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20673131)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/maverick_vf142)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/maverick-vf142)

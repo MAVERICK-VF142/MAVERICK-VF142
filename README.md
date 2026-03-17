@@ -1,98 +1,156 @@
-<p align="center">
-  <img src="https://github.com/MAVERICK-VF142/MAVERICK-VF142/blob/main/hey%2Ci'm%20ashutosh.gif" height="300" width="800" alt="Ashutosh Jena">
-</p>
-
-<h1 align="center">Hi 👋, I'm Ashutosh Jena</h1>
-<h3 align="center">A Computer Science Graduate & Open Source Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maverick-vf142&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MAVERICKVF142.png" alt="TryHackMe Badge">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maverick-vf142&theme=gruvbox&margin-w=15" alt="Trophies">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/maverick_vf142" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/maverick_vf142?logo=twitter&style=for-the-badge" alt="Twitter Follow">
-  </a>
-</p>
-
----
-
-### 📫 How to Reach Me
-📧 **ashutosh.jena.mav.1@gmail.com**
-
----
-
-## 🏅 Badges
-
-### 🎃 Hacktoberfest 2022
-[![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
-
-### 🛡️ Cybersecurity
 <div align="center">
-  <a href="https://www.credly.com/badges/5de8ddff-49b5-4834-9c88-ca6201f9662f"><img src="badges/introduction-to-cybersecurity-tools-cyber-attacks.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/f912b8a2-d352-4a47-9839-f3c6636929ee"><img src="badges/cybersecurity-roles-processes-operating-system-security.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/8c4e0a18-a454-451e-be91-bcac2a2397c9"><img src="badges/cybersecurity-compliance-framework-system-administration.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/3c8f8025-e70d-4843-8e52-a8ebe7ba8943/public_url"><img src="badges/network-security-database-vulnerabilities.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/43c76048-7e68-485c-a5f6-f745d9c1dc5f/public_url"><img src="badges/cybersecurity-it-fundamentals-specialization.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/4b692674-4b86-43ac-ac5a-df90002256ee/public_url"><img src="badges/penetration-testing-incident-response-and-forensics.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/d35302ec-40e0-45ca-80a4-6fa18c6a168d/public_url"><img src="badges/cyber-threat-intelligence.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/722fc7ff-efad-4775-8514-1ca695ae63b4"><img src="badges/introduction-to-cybersecurity.png" width="100"/></a>
+
+```
+___  ___  ___   _   _  _____ ______  _____  _____  _   __
+|  \/  | / _ \ | | | ||  ___|| ___ \|_   _|/  __ \| | / /
+| .  . |/ /_\ \| | | || |__  | |_/ /  | |  | /  \/| |/ / 
+| |\/| ||  _  || | | ||  __| |    /   | |  | |    |    \ 
+| |  | || | | |\ \_/ /| |___ | |\ \  _| |_ | \__/\| |\  \
+\_|  |_/\_| |_/ \___/ \____/ \_| \_| \___/  \____/\_| \_/
+
+ _   _ ______  __     ___  _____ 
+| | | ||  ___|/  |   /   |/ __  \
+| | | || |_   `| |  / /| |`' / /'
+| | | ||  _|   | | / /_| |  / /  
+\ \_/ /| |    _| |_\___  |./ /___
+ \___/ \_|    \___/    |_/\_____/
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ashutosh+Jena+%F0%9F%91%8B;CS+Graduate+%7C+Open+Source+Enthusiast;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=maverick-vf142&label=Profile+Views&color=00d9ff&style=flat-square)](https://github.com/MAVERICK-VF142)
+[![Twitter Follow](https://img.shields.io/twitter/follow/maverick_vf142?logo=twitter&style=flat-square&color=00d9ff)](https://twitter.com/maverick_vf142)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-MAVERICKVF142-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/MAVERICKVF142)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-019c5bc2-9FEF00?style=flat-square&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019c5bc2-3916-728a-b388-372be8cd81a4)
+
 </div>
 
-### ☁️ Cloud
-<a href="https://www.credly.com/badges/02ffe109-f8c7-4f97-80c6-36a7e83469e7/public_url">
-  <img src="badges/Adobe_Express_20230303_1029050_1.png" width="100"/>
-</a>
+---
+
+## 👾 About Me
+
+```yaml
+name: Ashutosh Jena
+alias: MAVERICK-VF142
+location: India 🇮🇳
+education: Computer Science Graduate
+focus:
+  - Open Source Contributions
+  - Cybersecurity & Ethical Hacking
+  - Machine Learning & AI
+  - Full Stack Development
+currently_learning: Cloud Security & DevOps
+contact: ashutosh.jena.mav.1@gmail.com
+fun_fact: I hack things legally 😄
+```
 
 ---
 
-## 🔗 Connect with Me
+## 🟢 Hack The Box
 
-<p align="left">
-  <a href="https://twitter.com/maverick_vf142" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="30"/></a>
-  <a href="https://linkedin.com/in/ashutosh-jena-865046246" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/></a>
-  <a href="https://stackoverflow.com/users/20673131" target="_blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="30"/></a>
-  <a href="https://instagram.com/_ashutosh_jena" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30"/></a>
-  <a href="https://www.hackerrank.com/maverick_vf142" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/hackerrank.png" width="30"/></a>
-  <a href="https://www.leetcode.com/maverick-vf142" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="30"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/maverick_vf142/profile" target="_blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="30"/></a>
-</p>
+<div align="center">
+
+[![HTB Profile](https://www.hackthebox.com/badge/image/019c5bc2-3916-728a-b388-372be8cd81a4)](https://profile.hackthebox.com/profile/019c5bc2-3916-728a-b388-372be8cd81a4)
+
+[![HTB](https://img.shields.io/badge/HackTheBox-019c5bc2-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019c5bc2-3916-728a-b388-372be8cd81a4)
+
+</div>
 
 ---
 
-## 💻 Languages & Tools
+## 🛡️ Cybersecurity Badges
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
-</p>
+<div align="center">
+
+| Badge | Credential |
+|-------|-----------|
+| <img src="https://img.shields.io/badge/Intro%20to%20Cybersecurity-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/> | [Credly ↗](https://www.credly.com/badges/722fc7ff-efad-4775-8514-1ca695ae63b4) |
+| <img src="https://img.shields.io/badge/Cybersecurity%20Tools%20%26%20Attacks-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/> | [Credly ↗](https://www.credly.com/badges/5de8ddff-49b5-4834-9c88-ca6201f9662f) |
+| <img src="https://img.shields.io/badge/Penetration%20Testing%20%26%20Forensics-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/> | [Credly ↗](https://www.credly.com/badges/4b692674-4b86-43ac-ac5a-df90002256ee/public_url) |
+| <img src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/> | [Credly ↗](https://www.credly.com/badges/d35302ec-40e0-45ca-80a4-6fa18c6a168d/public_url) |
+| <img src="https://img.shields.io/badge/Network%20Security%20%26%20DB%20Vulnerabilities-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/> | [Credly ↗](https://www.credly.com/badges/3c8f8025-e70d-4843-8e52-a8ebe7ba8943/public_url) |
+| <img src="https://img.shields.io/badge/IT%20Fundamentals%20Specialization-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/> | [Credly ↗](https://www.credly.com/badges/43c76048-7e68-485c-a5f6-f745d9c1dc5f/public_url) |
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### ML / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maverick-vf142&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maverick-vf142&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maverick-vf142" alt="Streak Stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maverick-vf142&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-vf142&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maverick-vf142&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maverick-vf142&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+</div>
+
+---
+
+## 🏆 Hacktoberfest 2022
+
+<div align="center">
+
+[![@maverick_vf142's Holopin board](https://holopin.io/api/user/board?user=maverick_vf142)](https://holopin.io/@maverick_vf142)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maverick_vf142)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-jena-865046246)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ashutosh_jena)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20673131)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/maverick_vf142)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/maverick-vf142)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/maverick_vf142/profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutosh.jena.mav.1@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"The quieter you become, the more you are able to hear."* — Kali Linux
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+</div>

@@ -44,7 +44,8 @@ focus:
   - Cybersecurity & Ethical Hacking
   - Machine Learning & AI
   - Full Stack Development
-currently_learning: Cloud Security & DevOps
+currently_learning: Advanced Penetration Testing 🔐
+website: https://ashutosh-jena.in
 contact: ashutosh.jena.mav.1@gmail.com
 fun_fact: I hack things legally 😄
 ```
@@ -199,6 +200,7 @@ fun_fact: I hack things legally 😄
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/ashutosh--jena.in-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashutosh-jena.in)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maverick_vf142)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-jena-865046246)
 [![Instagram](https://img.shields.io/badge/SecureIT__Maverick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/secureit_maverick)
